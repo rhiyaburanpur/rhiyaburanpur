@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="180" alt="Rhiya Buranpur Profile Picture" style="border-radius: 50%; border: 3px solid #66b3ff;"/>
+<img src="https://avatars.githubusercontent.com/u/rhiyaburanpur?v=4" width="180" alt="Rhiya Buranpur Profile Picture" style="border-radius: 50%; border: 3px solid #66b3ff;"/>
+
 <h1>Rhiya Buranpur</h1>
 <h2>Student Developer | Systems, Cloud, & Applied AI</h2>
 
@@ -54,8 +55,11 @@ A full-stack web platform connecting volunteers and NGOs, developed for the **Go
 # Contact
 
 I am open to collaboration and discussion on **Cloud Native systems** and **ML deployment strategies**.
+* **LinkedIn:** [Rhiya K. Buranpur](https://www.linkedin.com/in/rhiya-k-buranpur)
+* **Email:** [rhiyaburanpur@gmail.com](mailto:rhiyaburanpur@gmail.com)
+
+Activity
 
 <div align="center">
-- [**LinkedIn**](https://www.linkedin.com/in/rhiya-k-buranpur)
-- [**Email**](mailto:rhiyaburanpur@gmail.com)
+<img src="https://raw.githubusercontent.com/rhiyaburanpur/rhiyaburanpur/output/snake.svg" alt="Rhiya Buranpur GitHub Activity Snake" />
 </div>
