@@ -1,109 +1,61 @@
-<h2 align="left">Rhiya Buranpur | Student Developer</h2>
-<br clear="both">
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="180" alt="Rhiya Buranpur Profile Picture" style="border-radius: 50%; border: 3px solid #66b3ff;"/>
+<h1>Rhiya Buranpur</h1>
+<h2>Student Developer | Systems, Cloud, & Applied AI</h2>
 
-## About Me
+<p>
+Building performance-critical tools and scalable platforms. Currently focused on **Concurrency in Go** and **Cloud Native Orchestration (Kubernetes)**.
+</p>
 
-I am passionate about learning and exploring new technologies. When I am not coding, I pursue interests in languages, including German, French, and Korean.
-
----
-
-## Technical Skills
-
-I am proficient with a variety of technologies, including:
-
-* **Programming Languages:** Python, C, C++, JavaScript, Node.js, Go (Golang)
-* **Web Development:** HTML, CSS, Streamlit
-* **AI/ML Frameworks:** Hugging Face Transformers, PyTorch
-* **Data Science & Visualization:** Matplotlib, Seaborn, Pandas, NumPy
-* **Cloud & Containerization:** Kubernetes, AWS, GCP, Firebase
-* **Databases:** MySQL
-* **Design:** Figma
-* **Version Control:** Git
-* **Quantum Computing:** Qiskit
-
----
-
-## Projects
-
-### VolunEra
-<img src="./assets/volunera-text-logo-white.svg" alt="VolunEra Logo" width="280"/>
-A full-stack web platform connecting volunteers and NGOs.
-
-* **Technologies:** Angular + Firebase
-* **Context:** Google Solution Challenge 2025
-
-**Status:**
-![Under Development](https://img.shields.io/badge/status-under--development-orange)
-
-> "Connect, Contribute, and Create Impact in Your Community"
-
-### AI and Deep Learning
-
-#### PDF2Quiz: AI-Powered Question Generator (Local LLM)
-
-A document analysis and quiz generation tool built with **Streamlit** and powered by a **local Hugging Face Large Language Model (LLM)**. This application instantly generates high-quality, contextual **Multiple-Choice Questions (MCQs)** from various document formats.
-
-| Category | Technology | Focus |
-| :--- | :--- | :--- |
-| **App Framework** | Streamlit | Frontend and application interface. |
-| **AI Backend** | Hugging Face Transformers | Manages the sequence-to-sequence model locally. |
-| **LLM Model** | `facebook/bart-large-cnn` | Generates structured text output (questions, options). |
-| **Document Parsing** | PyPDF2, python-docx, python-pptx | Multi-Format Support (PDF, DOCX, PPTX). |
-
-* **Key Feature:** Operates entirely **locally** (zero-cost, no API key required) after the initial model download.
-* **Modes:** Supports **Learning Mode** (immediate feedback) and **Practice Mode** (timed assessment).
-
-### Core Development and Systems
-
-#### Go Web Crawler Core (Phase 1)
-
-The sequential core for an efficient web crawler, built on the **Breadth-First Search (BFS)** principle. This phase implements the foundational data structures and logic in Go to perform BFS traversal, ensure URL uniqueness, and handle basic fetching and parsing.
-
-| Component | Status | Location | Focus |
-| :--- | :--- | :--- | :--- |
-| **Core BFS Logic** | Complete | `main.go` | Sequential Breadth-First Search loop. |
-| **Data Structures** | Complete | `internal/crawler/` | Thread-safe URLQueue and VisitedSet. |
-| **HTTP Client** | Complete | `internal/client/http.go` | Custom client with sensible timeouts. |
-| **CI Workflow** | Implemented | `.github/workflows/go.yml` | Automatic build and test validation on commit. |
-
-* **Next Step:** Phase 2 will introduce Goroutines and Channels for concurrency.
-
-### Scripting and Utilities
-
-#### IQ Quiz Game (Python)
-
-A simple, command-line **Python** quiz designed to test logical reasoning and general knowledge with 10 challenging questions.
-
-* **Scoring:** 1 point per correct answer. Final score includes a personalised performance message.
-* **Technology:** Pure Python scripting.
-
-#### Simple GIF Maker (Python)
-
-A user-friendly **Python script** using the `imageio` library to quickly convert a series of images into a single animated GIF.
-
-* **Customisation:** Easily change duration (speed), output file name, and loop settings.
-* **Technology:** Python, `imageio` library.
-
----
-
-## Current Focus
-
-I am currently focused on expanding my knowledge in **Kubernetes** and **Cloud Computing**.
-
-## Contact
-
-* [LinkedIn](www.linkedin.com/in/rhiya-k-buranpur)
-
-### Connect with Me
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8-black?style=for-the-badge&logo=go&logoColor=white" alt="Go Lang Badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5-black?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-FFD21C-black?style=for-the-badge&logo=tensorflow&logoColor=black" alt="AI/ML Badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB-black?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Angular-DD0031-black?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
+</p>
 </div>
 
-<br clear="both">
+---
 
-### My GitHub Activity Snake
+# Technical Skills Matrix
+
+A high-level view of my expertise across core engineering domains:
+
+| Domain | Key Focus | Technologies |
+| :--- | :--- | :--- |
+| **Systems & Concurrency** | High-performance, low-latency backend logic. | **Go (Golang)**, C/C++, Git, Qiskit (Quantum) |
+| **Cloud & Infrastructure** | Container orchestration, serverless and distributed systems. | **Kubernetes**, AWS, GCP, Firebase |
+| **Applied AI/ML** | Local NLP model deployment and data processing. | Hugging Face Transformers, PyTorch, Matplotlib, Seaborn |
+| **Web & Database** | Full-stack SPA development and relational data management. | Angular, JavaScript, Streamlit, HTML/CSS, MySQL |
+
+---
+
+# Featured Projects
+
+### 1. Go Web Crawler Core (Systems Programming)
+The foundational, concurrent core for an efficient web crawler, emphasising **BFS** and clean data management in Go.
+* **Technologies:** Go (Golang), Concurrency, BFS
+* **Status:** <img src="https://img.shields.io/badge/status-Completed-success?style=flat-square" alt="Status: Completed"/>
+
+### 2. PDF2Quiz: AI-Powered Question Generator (Local LLM)
+A document analysis tool that generates MCQs from various formats using a **local Hugging Face LLM**.
+* **Technologies:** Streamlit, Hugging Face Transformers, PyPDF2
+* **Key Feature:** Operates entirely locally for high data privacy and zero API cost.
+* **Status:** <img src="https://img.shields.io/badge/status-Under%20Development-orange?style=flat-square" alt="Status: Under Development"/>
+
+### 3. VolunEra (Community Platform)
+A full-stack web platform connecting volunteers and NGOs, developed for the **Google Solution Challenge 2025**.
+* **Technologies:** Angular, Firebase
+* **Status:** <img src="https://img.shields.io/badge/status-Under%20Development-orange?style=flat-square" alt="Status: Under Development"/>
+
+---
+
+# Contact
+
+I am open to collaboration and discussion on **Cloud Native systems** and **ML deployment strategies**.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rhiyaburanpur/rhiyaburanpur/output/snake.svg" alt="Snake animation" />
+- [**LinkedIn**](https://www.linkedin.com/in/rhiya-k-buranpur)
+- [**Email**](mailto:youremail@example.com)
 </div>
