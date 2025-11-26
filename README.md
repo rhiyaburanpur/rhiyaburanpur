@@ -1,41 +1,93 @@
-# Hi there, I'm Rhiya Buranpur! 👋
+# Rhiya Buranpur | Student Developer
 
-Welcome to my GitHub profile! I'm a student based in Pune, Maharashtra, India.
+Welcome to my GitHub profile! I am a student based in Pune, Maharashtra, India.
 
 ## About Me
 
-I'm passionate about learning and exploring new technologies. When I'm not coding, you'll find me diving into the world of languages, trying to pick up German, French, Korean, and more!
+I am passionate about learning and exploring new technologies. When I am not coding, I pursue interests in languages, including German, French, and Korean.
 
-## 🛠️ Tech Stack
+---
 
-I'm comfortable working with a variety of technologies, including:
+## Technical Skills
 
-* **Programming Languages:** Python, C, C++, JavaScript, Node.js
-* **Web Development:** HTML, CSS
+I am proficient with a variety of technologies, including:
+
+* **Programming Languages:** Python, C, C++, JavaScript, Node.js, Go (Golang)
+* **Web Development:** HTML, CSS, Angular, Streamlit
+* **AI/ML Frameworks:** Hugging Face Transformers, PyTorch
 * **Data Science & Visualization:** Matplotlib, Seaborn, Pandas, NumPy
-* **Cloud & Containerization:** Kubernetes, AWS, GCP
+* **Cloud & Containerization:** Kubernetes, AWS, GCP, Firebase
 * **Databases:** MySQL
 * **Design:** Figma
 * **Version Control:** Git
 * **Quantum Computing:** Qiskit
 
-I'm currently focused on expanding my knowledge in Kubernetes and Cloud Computing.
+---
 
-## Highlight Project
+## Projects
+
+### VolunEra
 <img src="./assets/volunera-text-logo-white.svg" alt="VolunEra Logo" width="280"/>
-
-### **VolunEra**  
-A full-stack web platform connecting volunteers and NGOs.  
-🛠️ Angular + Firebase  
-🌍 Google Solution Challenge 2025  
+A full-stack web platform connecting volunteers and NGOs.
+* **Technologies:** Angular + Firebase
+* **Context:** Google Solution Challenge 2025
 ![Under Development](https://img.shields.io/badge/status-under--development-orange)
 
-> *"Connect, Contribute, and Create Impact in Your Community"*
-## 🚀 Currently Exploring
+> "Connect, Contribute, and Create Impact in Your Community"
 
-* Kubernetes
-* Cloud Computing
+### AI and Deep Learning
 
-## 🤝 Let's Connect
+#### PDF2Quiz: AI-Powered Question Generator (Local LLM)
+
+A document analysis and quiz generation tool built with **Streamlit** and powered by a **local Hugging Face Large Language Model (LLM)**. This application instantly generates high-quality, contextual **Multiple-Choice Questions (MCQs)** from various document formats.
+
+| Category | Technology | Focus |
+| :--- | :--- | :--- |
+| **App Framework** | Streamlit | Frontend and application interface. |
+| **AI Backend** | Hugging Face Transformers | Manages the sequence-to-sequence model locally. |
+| **LLM Model** | `facebook/bart-large-cnn` | Generates structured text output (questions, options). |
+| **Document Parsing** | PyPDF2, python-docx, python-pptx | Multi-Format Support (PDF, DOCX, PPTX). |
+
+* **Key Feature:** Operates entirely **locally** (zero-cost, no API key required) after the initial model download.
+* **Modes:** Supports **Learning Mode** (immediate feedback) and **Practice Mode** (timed assessment).
+
+### Core Development and Systems
+
+#### Go Web Crawler Core (Phase 1)
+
+The sequential core for an efficient web crawler, built on the **Breadth-First Search (BFS)** principle. This phase implements the foundational data structures and logic in Go to perform BFS traversal, ensure URL uniqueness, and handle basic fetching and parsing.
+
+| Component | Status | Location | Focus |
+| :--- | :--- | :--- | :--- |
+| **Core BFS Logic** | Complete | `main.go` | Sequential Breadth-First Search loop. |
+| **Data Structures** | Complete | `internal/crawler/` | Thread-safe URLQueue and VisitedSet. |
+| **HTTP Client** | Complete | `internal/client/http.go` | Custom client with sensible timeouts. |
+| **CI Workflow** | Implemented | `.github/workflows/go.yml` | Automatic build and test validation on commit. |
+
+* **Next Step:** Phase 2 will introduce Goroutines and Channels for concurrency.
+
+### Scripting and Utilities
+
+#### IQ Quiz Game (Python)
+
+A simple, command-line **Python** quiz designed to test logical reasoning and general knowledge with 10 challenging questions.
+
+* **Scoring:** 1 point per correct answer. Final score includes a personalised performance message.
+* **Technology:** Pure Python scripting.
+
+#### Simple GIF Maker (Python)
+
+A user-friendly **Python script** using the `imageio` library to quickly convert a series of images into a single animated GIF.
+
+* **Customisation:** Easily change duration (speed), output file name, and loop settings.
+* **Technology:** Python, `imageio` library.
+
+---
+
+## Current Focus
+
+I am currently focused on expanding my knowledge in **Kubernetes** and **Cloud Computing**.
+
+## Contact
 
 * [LinkedIn](www.linkedin.com/in/rhiya-k-buranpur)
