@@ -1,6 +1,5 @@
-<h2 align="left">Hi! My name is Rhiya Buranpur and I'm a Student Developer, from Pune, Maharashtra, India.</h2>
+<h2 align="left">Rhiya Buranpur | Student Developer</h2>
 <br clear="both">
-
 ## About Me
 
 I am passionate about learning and exploring new technologies. When I am not coding, I pursue interests in languages, including German, French, and Korean.
