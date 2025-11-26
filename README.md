@@ -4,9 +4,7 @@
 <h1>Rhiya Buranpur</h1>
 <h2>Student Developer | Systems, Cloud, & Applied AI</h2>
 
-<p>
 Building performance-critical tools and scalable platforms. Currently focused on **Concurrency in Go** and **Cloud Native Orchestration (Kubernetes)**.
-</p>
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8-black?style=for-the-badge&logo=go&logoColor=white" alt="Go Lang Badge"/>
