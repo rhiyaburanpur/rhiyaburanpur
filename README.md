@@ -1,6 +1,13 @@
-# Rhiya Buranpur | Student Developer
+<h2 align="left">Hi 👋! My name is Rhiya Buranpur and I'm a Student Developer, from Pune, Maharashtra, India.</h2>
 
-Welcome to my GitHub profile! I am a student based in Pune, Maharashtra, India.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhiyaburanpur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhiyaburanpur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
 ## About Me
 
@@ -11,6 +18,23 @@ I am passionate about learning and exploring new technologies. When I am not cod
 ## Technical Skills
 
 I am proficient with a variety of technologies, including:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+</div>
+<br>
 
 * **Programming Languages:** Python, C, C++, JavaScript, Node.js, Go (Golang)
 * **Web Development:** HTML, CSS, Angular, Streamlit
@@ -29,8 +53,11 @@ I am proficient with a variety of technologies, including:
 ### VolunEra
 <img src="./assets/volunera-text-logo-white.svg" alt="VolunEra Logo" width="280"/>
 A full-stack web platform connecting volunteers and NGOs.
+
 * **Technologies:** Angular + Firebase
 * **Context:** Google Solution Challenge 2025
+
+**Status:**
 ![Under Development](https://img.shields.io/badge/status-under--development-orange)
 
 > "Connect, Contribute, and Create Impact in Your Community"
@@ -91,3 +118,17 @@ I am currently focused on expanding my knowledge in **Kubernetes** and **Cloud C
 ## Contact
 
 * [LinkedIn](www.linkedin.com/in/rhiya-k-buranpur)
+
+### Connect with Me
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</div>
+
+<br clear="both">
+
+### My GitHub Activity Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rhiyaburanpur/rhiyaburanpur/output/snake.svg" alt="Snake animation" />
+</div>
