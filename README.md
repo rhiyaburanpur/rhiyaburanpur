@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/rhiyaburanpur?v=4" width="180" alt="Rhiya Buranpur Profile Picture" style="border-radius: 50%; border: 3px solid #66b3ff;"/>
+<img src="https://github.com/rhiyaburanpur.png" width="180" alt="Rhiya Buranpur Profile Picture" style="border-radius: 50%; border: 3px solid #66b3ff;"/>
 
 <h1>Rhiya Buranpur</h1>
 <h2>Student Developer | Systems, Cloud, & Applied AI</h2>
