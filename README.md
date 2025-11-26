@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rhiya Buranpur and I'm a Student Developer, from Pune, Maharashtra, India.</h2>
+<h2 align="left">Hi! My name is Rhiya Buranpur and I'm a Student Developer, from Pune, Maharashtra, India.</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rhiyaburanpur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
@@ -6,8 +6,6 @@
 </div>
 
 <br clear="both">
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
 ## About Me
 
