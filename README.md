@@ -57,5 +57,5 @@ I am open to collaboration and discussion on **Cloud Native systems** and **ML d
 
 <div align="center">
 - [**LinkedIn**](https://www.linkedin.com/in/rhiya-k-buranpur)
-- [**Email**](mailto:youremail@example.com)
+- [**Email**](mailto:rhiyaburanpur@gmail.com)
 </div>
