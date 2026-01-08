@@ -37,10 +37,10 @@ The foundational, concurrent core for an efficient web crawler, emphasising **BF
 * **Technologies:** Go (Golang), Concurrency, BFS
 * **Status:** <img src="https://img.shields.io/badge/status-Completed-success?style=flat-square" alt="Status: Completed"/>
 
-### 2. PDF2Quiz: AI-Powered Question Generator (Local LLM)
-A document analysis tool that generates MCQs from various formats using a **local Hugging Face LLM**.
-* **Technologies:** Streamlit, Hugging Face Transformers, PyPDF2
-* **Key Feature:** Operates entirely locally for high data privacy and zero API cost.
+### 2. KontoFlow: Financial ETL Pipeline (Data Engineering)
+A robust backend system that ingests raw bank statement PDFs, normalizes transaction data, and persists it to a structured SQL database using ORM.
+* **Technologies:** Python, SQLModel, pandas, pdfplumber
+* **Key Feature:** Automated ETL pipeline with strict type validation and secure credential management.
 * **Status:** <img src="https://img.shields.io/badge/status-Under%20Development-orange?style=flat-square" alt="Status: Under Development"/>
 
 ### 3. VolunEra (Community Platform)
