@@ -33,7 +33,7 @@ A high-level view of my expertise across core engineering domains:
 # Featured Projects
 
 ### 1. Go Web Crawler Core (Systems Programming)
-The foundational, concurrent core for an efficient web crawler, emphasising **BFS** and clean data management in Go.
+A high-performance, scalable, and fault-tolerant web crawler built with Go.
 * **Technologies:** Go (Golang), Concurrency, BFS
 * **Status:** <img src="https://img.shields.io/badge/status-Completed-success?style=flat-square" alt="Status: Completed"/>
 
